@@ -1,0 +1,4 @@
+project_id = "hlnepygyjvtnernhsgmd"
+
+[functions.download-with-metadata]
+verify_jwt = false
